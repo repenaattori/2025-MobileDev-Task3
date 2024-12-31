@@ -1,0 +1,11 @@
+## Install dependencies
+npm install
+
+## Run tests to check if the answer is correct
+npm test
+
+## Task
+The components are defined in the App.js. Don't remove any existing props of the components.
+
+Use styles to modify the view look like in the image Task3Example.png. More detailed values are also in the image. Modify button styles for the Text component inside touchable.
+ 
